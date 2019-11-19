@@ -1,4 +1,4 @@
-package com.ram.sample.security;
+package com.ram.sample.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

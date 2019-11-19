@@ -1,4 +1,4 @@
-package com.ram.sample.security;
+package com.ram.sample.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -9,6 +9,7 @@ public class User {
 	private long id;
 	private String username;
 	private String password;
+	private String hashpwd;
 
 	public long getId() {
 		return id;
@@ -32,6 +33,14 @@ public class User {
 
 	public void setPassword(String password) {
 		this.password = password;
+	}
+
+	public String getHashpwd() {
+		return hashpwd;
+	}
+
+	public void setHashpwd(String hashpwd) {
+		this.hashpwd = hashpwd;
 	}
 
 }
